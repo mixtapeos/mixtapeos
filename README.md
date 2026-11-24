@@ -1,16 +1,19 @@
-## Hi there 👋
+<img width="1600" height="257" alt="banner" src="https://github.com/user-attachments/assets/1a550f79-0e10-4767-b64d-a35d7c08b80c" />
 
-<!--
-**mixtapeos/mixtapeos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mixtape OS - ARCHOS 605 Flash/HDD Custom Firmware**
 
-Here are some ideas to get you started:
+Changes from the original Archos firmware:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HDD S/N Lock disabled (HDD Version)
+- Charge current up to 1A
+- Bugfix: Network menu,WiFi idle, standby, backlight/charge timers
+- SSH
+- BusyBox 1.9.0 (/bin/busybox2) alongside stock BusyBox 1.01
+- SMB2/SMB3 Fixed
+- Info-menu app launcher
+- Internet Radio and Web TV with a local vTuner backend and editable lists.
+- Native WiFi auto-connect at boot
+- Boot progress
+- Native ARM Utility apps: FileExplorer, MTOS_Set
+- Native ARM Live DJ app: Mixtape DJ
+- Updatable Firmware and Apps via FileExplorer
