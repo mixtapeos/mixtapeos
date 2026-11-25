@@ -1,6 +1,6 @@
 <img width="1600" height="257" alt="banner" src="https://github.com/user-attachments/assets/1a550f79-0e10-4767-b64d-a35d7c08b80c" />
 
-**Mixtape OS - ARCHOS 605 Flash/HDD Custom Firmware**
+# Mixtape OS - ARCHOS 605 Custom Firmware
 
 Found your old Archos 605 in a drawer? MixtapeOS is the reason to charge it again.
 
@@ -8,9 +8,8 @@ MixtapeOS turns an abandoned media player into a pocket-sized DJ booth. Replace 
 
 Built for the Archos 605 Flash and 605 HDD, Mixtape OS brings native ARM apps, SSH access and modern conveniences back to the hardware you already own — no subscriptions, no cloud account, just your music and a device with a second life.
 
-<iframe src="https://archive.org/embed/firmware_a605_2.1.04" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-**Features:**
+## Features
 
 - No need to write internal bootloader memory = original recovery always available
 - Untethered/Permanent Jailbreak+Custom Firmware
@@ -28,18 +27,28 @@ Built for the Archos 605 Flash and 605 HDD, Mixtape OS brings native ARM apps, S
 - Native ARM Live DJ app: Mixtape DJ
 - Updatable Firmware and Apps via FileExplorer
 
-**SUPPORTED DEVICES**
+## SUPPORTED DEVICES
 - Archos 605 Flash (2/4 gb + SD CARD) Firmware 2.1.04 (Tested only: 4gb)
 - Archos 605 HDD (>=20gb NO SD CARD) Firmware 2.1.04 (Tested only: 20gb)
 
-**REQUIREMENTS**
+## REQUIREMENTS
 - USB data cable
-- Original firmware files
-- Mixtape OS Custom firmware for your model (Flash or HDD)
+- [Original Firmware](https://archive.org/download/firmware_a605_2.1.04)
+- [Mixtape OS Custom firmware for your model (Flash or HDD)](https://github.com/mixtapeos/mixtapeos/releases/latest)
+
+## INSTALL
 
 
+### PHASE 0 - HDD REPLACEMENT (ONLY HDD VERSION IF YOUR DEVICE IS HDD-DEAD)
+- Replace HDD
+- Press and keep pressed the TV/LOCK button on top of device
+- Press POWER button
+- When display turn on, release POWER button
+- When recovery menu appears, release TV/LOCK button
+- Select "Format Disk" with ARROWS button e press OK button to confirm.
+- When device prompt to connect pc, continue to PHASE 1 at "Connect the USB Cable and transfer original firmware"
 
-**PHASE 1 - INSTALL ORIGINAL FIRMWARE**
+### PHASE 1 - INSTALL ORIGINAL FIRMWARE
 - Backup your device content/data
 - Turn off device: Settings -> Power -> Power off
 - Press and keep pressed the TV/LOCK button on top of device
@@ -54,7 +63,7 @@ Built for the Archos 605 Flash and 605 HDD, Mixtape OS brings native ARM apps, S
 - On device, press OK button to install firmware (USB Cable needed for charging)
 - Reboot when done
 
-**PHASE 2 - INSTALL MIXTAPE OS**
+### PHASE 2 - INSTALL MIXTAPE OS
 - Turn off device: Settings -> Power -> Power off
 - Press and keep pressed the TV/LOCK button on top of device
 - Press POWER button
@@ -70,11 +79,22 @@ Built for the Archos 605 Flash and 605 HDD, Mixtape OS brings native ARM apps, S
 - Press the POWER button to boot device normally
 - Enjoy MIXTAPE OS
 
+### FIRST LAUNCH
+- The "App Launcher" is the "i" touch button on right side of the home screen.
+- Customize MIXTAPE OS Settings: App_MTOS_Set -> Settings
 
 
 
 
-**DISCLAIMER:**
+
+
+
+
+
+
+
+
+## DISCLAIMER
 
 **Mixtape OS is an unofficial community project for the Archos 605. It is NOT
 affiliated with, endorsed by, sponsored by, or supported by Archos.**
