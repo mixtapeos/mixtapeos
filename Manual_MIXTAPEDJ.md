@@ -6,7 +6,7 @@ Mixtape DJ is the native two-deck MP3 player included with MixtapeOS. It is desi
 
 ## Quick start
 
-1. Copy your MP3 files to `/mnt/data/Music`.
+1. Copy your MP3 files to player via usb or sftp.
 2. Open **Mixtape DJ** from the Info menu.
 3. Wait for `INIT AUDIO` to disappear and for the decks to become ready.
 4. Open **MUSIC LIBRARY**, choose a folder and select a track.
