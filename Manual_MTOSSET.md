@@ -118,10 +118,3 @@ The selected value is written to:
 
 and applied by the battery helper.
 
-## Related documentation
-
-- [Mixtape DJ manual](Manual_MIXTAPEDJ.md)
-- [File Explorer manual](Manual_FILEEXPLORER.md)
-- [Wi-Fi and MTOS settings](docs/25-wifi-avos.html)
-- [Application packages](docs/24-app-packages.html)
-- [MixtapeOS changelog](docs/28-mixtapeos.html)
