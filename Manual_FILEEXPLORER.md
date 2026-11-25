@@ -113,9 +113,4 @@ The **ROOTFS** shortcut selects only the root filesystem.
 
 The updater writes temporary files, validates them and uses an atomic rename where supported. The final reboot is always manual: File Explorer does not reboot the device by itself.
 
-## Related documentation
 
-- [MTOS Settings manual](Manual_MTOSSET.md)
-- [Mixtape DJ manual](Manual_MIXTAPEDJ.md)
-- [Application packages](docs/24-app-packages.html)
-- [MixtapeOS changelog](docs/28-mixtapeos.html)
