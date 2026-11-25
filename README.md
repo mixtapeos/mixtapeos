@@ -113,7 +113,7 @@ Built for the Archos 605 Flash and 605 HDD, Mixtape OS brings native ARM apps, S
 
 ## APPLICATIONS
 - [Mixtape DJ](https://github.com/mixtapeos/mixtapeos/blob/main/Manual_MIXTAPEDJ.md)
-- [Mixtape Settings](https://github.com/mixtapeos/blob/main/mixtapeos/Manual_MTOSSET.md)
+- [Mixtape Settings](https://github.com/mixtapeos/mixtapeos/blob/main/Manual_MTOSSET.md)
 - [File Exporer](https://github.com/mixtapeos/mixtapeos/blob/main/Manual_FILEEXPLORER.md)
 
 
