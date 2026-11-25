@@ -8,6 +8,27 @@ MixtapeOS turns an abandoned media player into a pocket-sized DJ booth. Replace 
 
 Built for the Archos 605 Flash and 605 HDD, Mixtape OS brings native ARM apps, SSH access and modern conveniences back to the hardware you already own — no subscriptions, no cloud account, just your music and a device with a second life.
 
+## Preview
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="media/boot.png" alt="MixtapeOS boot screen" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <img src="media/mtos_set.png" alt="MTOS Settings" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="media/mixtape_dj.png" alt="Mixtape DJ" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <img src="media/mixtape_dj.gif" alt="Mixtape DJ in action" width="100%">
+    </td>
+  </tr>
+</table>
+
 
 ## Features
 
@@ -83,7 +104,11 @@ Built for the Archos 605 Flash and 605 HDD, Mixtape OS brings native ARM apps, S
 - The "App Launcher" is the "i" touch button on right side of the home screen.
 - Customize MIXTAPE OS Settings: App_MTOS_Set -> Settings
 
-
+## QUESTIONS
+- Source code? Maybe. it takes a lot of time this work, if the community appreciate i can think about it
+- Safety of this firmware? You can extract the firmware rootfs to ensure is safe.
+- It's recommended to change SSH password if you use it, and avoid public wifi network.
+- THIS IS THE ONLY REPO OF THIS CUSTOM FIRMWARE, DON'T DOWNLOAD ANY FIRMWARES/APPS FROM ANY OTHER WEBSITE! 
 
 
 
