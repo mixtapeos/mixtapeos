@@ -192,10 +192,3 @@ The Archos 605 has an ARM926 CPU without a floating-point unit. Heavy effects, t
 - Check free space on `/mnt/data`.
 - Restart Mixtape DJ if the audio path is stuck.
 
-## Related documentation
-
-- [MTOS Settings](Manual_MTOSSET.md)
-- [File Explorer](Manual_FILEEXPLORER.md)
-- [Audio architecture](docs/21-audio.html)
-- [App_DJ audio performance](docs/22-appdj-audio-performance.html)
-- [App_DJ UI performance](docs/23-appdj-ui-performance.html)
